@@ -1,0 +1,105 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibrarySystem
+</name>
+</assembly>
+<members>
+<member name="P:LibrarySystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources._12834822_1054610937913719_1801379020_n">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources._Exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.admin1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.CNHS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.folder_home2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.folder_home21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.library_books_desks_bookshelf_objects_antique_2560x1600_wallpaper_wallpaperbeautiful_67">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.loginicon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.loginicon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibrarySystem.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LibrarySystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:LibrarySystem.ViaNettSMS.#ctor(System.String,System.String)">
+	<summary>
+ Constructor with username and password to ViaNett gateway. 
+ </summary>
+</member><member name="M:LibrarySystem.ViaNettSMS.SendSMS(System.String,System.String,System.String)">
+	<summary>
+ Send SMS message through the ViaNett HTTP API.
+ </summary>
+	<returns>Returns an object with the following parameters: Success, ErrorCode, ErrorMessage</returns>
+	<param name="msgsender">Message sender address. Mobile number or small text, e.g. company name</param>
+	<param name="destinationaddr">Message destination address. Mobile number.</param>
+	<param name="message">Text message</param>
+</member><member name="M:LibrarySystem.ViaNettSMS.DownloadString(System.String)">
+	<summary>
+ Downloads the URL from the server, and returns the response as string.
+ </summary>
+	<param name="URL"></param>
+	<returns>Returns the http/xml response as string</returns>
+	<exception cref="T:System.Net.WebException">WebException is thrown if there is a connection problem.</exception>
+</member><member name="M:LibrarySystem.ViaNettSMS.ParseServerResult(System.String)">
+	<summary>
+ Parses the XML code and returns a Result object.
+ </summary>
+	<param name="ServerResult">XML data from a request through HTTP API.</param>
+	<returns>Returns a Result object with the parsed data.</returns>
+</member><member name="T:LibrarySystem.ViaNettSMS.Result">
+	<summary>
+ The Result object from the SendSMS function, which returns Success(Boolean), ErrorCode(Integer), ErrorMessage(String).
+ </summary>
+</member><member name="T:LibrarySystem.ViaNettSMS">
+	<summary>
+ ViaNett SMS class provides an easy way of sending SMS messages through the HTTP API.
+ </summary>
+</member>
+</members>
+</doc>

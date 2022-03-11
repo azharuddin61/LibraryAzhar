@@ -1,0 +1,115 @@
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmUserLogin.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.Resources.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.xml
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.pdb
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmLoading.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMain.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListBook.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdminLogin.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMainAdmin.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmIndex.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReserve.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmConfirm1.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListborrow.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmSending.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReturing.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReport.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListreserve.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMoveborrow.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdd.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEdit.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDelete.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStud.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDeleteUser.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEditStudent.resources
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.manifest
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.application
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe.manifest
+C:\Users\Gilbert Adane\Desktop\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.application
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdd.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdminLogin.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDelete.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDeleteUser.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEdit.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListreserve.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMainAdmin.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListborrow.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMoveborrow.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReport.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReturing.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmSending.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStud.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEditStudent.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmConfirm1.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmIndex.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListBook.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmLoading.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMain.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReserve.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmUserLogin.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.Resources.resources
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.manifest
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.application
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe.manifest
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.application
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.xml
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.pdb
+C:\Users\Azhar-pc\Documents\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.vbprojResolveAssemblyReference.cache
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.manifest
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.application
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.xml
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdd.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddBooks.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStudent.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAdminLogin.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDelete.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmDeleteUser.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEdit.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListreserve.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMainAdmin.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListborrow.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMoveborrow.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReport.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReturing.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmSending.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmAddStud.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmEditStudent.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmBorrow.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmConfirm1.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmIndex.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmListBook.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmLoading.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmMain.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmReserve.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.frmUserLogin.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.Resources.resources
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.vbproj.GenerateResource.Cache
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe.manifest
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.application
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.exe
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.xml
+C:\Users\Azhar-pc\Desktop\Projects\Azhar library management system\Azhar library management system\librarysystem\LibrarySystem\LibrarySystem\obj\x86\Debug\LibrarySystem.pdb
